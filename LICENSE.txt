@@ -1,0 +1,91 @@
+Code with Jira - Proprietary Software License
+
+Copyright (c) 2024-2026 Brainicorn LLC. All rights reserved.
+
+NOTICE: This software and associated documentation files (the "Software") are
+proprietary and confidential to Brainicorn LLC.
+
+LICENSE GRANT
+
+Subject to the terms and conditions of this License and your compliance with
+the Terms of Service available at https://www.brainicorn.com/terms, Brainicorn LLC
+grants you a limited, non-exclusive, non-transferable, revocable license to:
+
+1. Install and use the Software on devices for which you have purchased a valid
+   license, subject to device activation limits specified in your license.
+
+2. Use the Software for your personal or commercial software development purposes.
+
+RESTRICTIONS
+
+You may NOT:
+- Modify, adapt, translate, or create derivative works of the Software
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive
+  the source code of the Software
+- Rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer,
+  or otherwise make available the Software to any third party
+- Remove, alter, or obscure any proprietary notices on the Software
+- Use the Software in any way that violates applicable laws or regulations
+- Circumvent or attempt to circumvent any license validation or activation mechanisms
+
+OWNERSHIP
+
+The Software is licensed, not sold. Brainicorn LLC retains all right, title, and
+interest in and to the Software, including all intellectual property rights.
+This License does not grant you any rights to trademarks, service marks, or
+branding of Brainicorn LLC.
+
+TERMINATION
+
+This License is effective until terminated. Your rights under this License will
+terminate automatically without notice if you fail to comply with any of its terms.
+Brainicorn LLC may terminate this License at any time if you breach these terms.
+Upon termination, you must cease all use of the Software and destroy all copies.
+
+DATA AND PRIVACY
+
+Your use of the Software is subject to our Privacy Policy available at
+https://www.brainicorn.com/privacy-policy. The Software connects to your own
+Jira Cloud instance and to Brainicorn's license validation services.
+
+THIRD-PARTY SERVICES
+
+The Software may integrate with third-party services (including but not limited
+to Atlassian Jira Cloud and GitHub Copilot). Your use of such services is subject
+to the respective third-party terms and conditions.
+
+DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT. BRAINICORN LLC DOES NOT WARRANT THAT THE
+SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL BRAINICORN LLC
+BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
+OR ANY LOSS OF PROFITS, REVENUE, DATA, OR DATA USE, ARISING OUT OF OR RELATED TO
+YOUR USE OF THE SOFTWARE, EVEN IF BRAINICORN LLC HAS BEEN ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES.
+
+GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of the
+jurisdiction where Brainicorn LLC is registered, without regard to its conflict
+of law provisions.
+
+ENTIRE AGREEMENT
+
+This License, together with the Terms of Service and Privacy Policy referenced
+herein, constitutes the entire agreement between you and Brainicorn LLC regarding
+the Software.
+
+CONTACT
+
+For questions about this License, please contact: support@brainicorn.com
+
+---
+
+For complete Terms of Service, visit: https://www.brainicorn.com/terms
+For Privacy Policy, visit: https://www.brainicorn.com/privacy-policy
