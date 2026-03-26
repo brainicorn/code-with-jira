@@ -1,11 +1,16 @@
 # Change Log
 
-All notable changes to Code with Jira will be documented in this file.
+## 1.0.2
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+### Patch Changes
 
-## [Unreleased]
+- no longer require restart on fresh install to see jql tree
+
+## 1.0.1
+
+### Patch Changes
+
+- Fixed license refresh bug
 
 ## [1.0.0] - 2026-01-15
 
@@ -14,12 +19,14 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 ### Added
 
 #### Core Jira Integration
+
 - OAuth 2.0 authentication with persistent sessions
 - Multi-site support for connecting to multiple Jira Cloud instances
 - Secure credential storage using VS Code's secret storage API
 - Quick site switching between multiple connected Jira instances
 
 #### Work Items Tree View
+
 - Custom JQL queries with full syntax support
 - Create, edit, rename, and delete saved JQL queries
 - Hierarchical issue display showing parent-child relationships
@@ -31,6 +38,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Configurable pagination for large result sets
 
 #### Spaces (Projects) Tree View
+
 - Project-based navigation across all connected sites
 - Pin/unpin favorite projects for quick access
 - Pre-built quick filters per project (My Open, Recently Updated, Current Sprint)
@@ -39,6 +47,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Multi-site project management
 
 #### Rich Work Item Editor
+
 - Responsive split-pane layout adapting to viewport size
 - Full Atlassian Document Format (ADF) support for rich text editing
 - Rich formatting: bold, italic, lists, code blocks, tables, @mentions
@@ -52,6 +61,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Real-time validation and error handling
 
 #### Start/Stop Work Flow
+
 - One-click start work with comprehensive automation
 - Automatic git branch creation with configurable naming templates
 - Branch naming variables: `${issueKey}`, `${issueSummary}`, `${issueType}`, `${projectKey}`
@@ -66,6 +76,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Optional transition to "Done" when stopping work
 
 #### Time Tracking
+
 - Automatic time tracking while working on issues
 - Work session management integrated with start/stop flow
 - Automatic work log creation in Jira
@@ -73,6 +84,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Accurate per-issue time tracking
 
 #### Comment Tags Management
+
 - Automatic workspace scanning for TODO, FIXME, HACK, NOTE, BUG tags
 - Configurable custom tag types with color coding
 - Multiple view modes: group by tag type or group by file
@@ -88,6 +100,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Tag statistics and distribution display
 
 #### JQL Editor
+
 - Intelligent auto-completion for fields, operators, values, and functions
 - Context-aware suggestions based on cursor position
 - Field value lookup from actual Jira data
@@ -98,6 +111,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Inline actions and context menu on results
 
 #### Work Item Creation
+
 - Smart QuickPick for fast issue creation
 - Full editor mode for complex issue types
 - Automatic escalation from QuickPick to editor when needed
@@ -109,6 +123,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Project and issue type validation
 
 #### AI Features (GitHub Copilot Integration)
+
 - Chat participant `@codewithjira` for Jira-aware assistance
 - Natural language issue exploration and navigation
 - AI-powered planning agent for creating issue hierarchies
@@ -124,6 +139,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Context-aware AI with workspace and Jira understanding
 
 #### Help & Feedback
+
 - Integrated help and feedback tree view
 - Getting started guide and quick onboarding
 - Direct links to documentation
@@ -133,6 +149,7 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 - Direct feedback submission mechanism
 
 ### Technical
+
 - Built on VS Code Extension API 1.106.0+
 - Full Jira Cloud REST API v3 integration
 - OAuth 2.0 authentication flow
@@ -147,4 +164,3 @@ Initial public release of **Code with Jira** - The new standard in Jira/IDE inte
 
 [Unreleased]: https://github.com/brainicorn/code-with-jira/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/brainicorn/code-with-jira/releases/tag/v1.0.0
-
