@@ -1,5 +1,25 @@
 # Change Log
 
+## 1.0.5
+
+### Patch Changes
+
+- fixed issue with timetracking settings admin perms
+
+## 1.0.4
+
+### Patch Changes
+
+- fixed high cpu load issue reported in #4
+
+## 1.0.3
+
+### Patch Changes
+
+- updated readme
+- Fixed duplicate sites when re-authing bug
+- better versions in user-agent
+
 ## 1.0.2
 
 ### Patch Changes
